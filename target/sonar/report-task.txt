@@ -1,0 +1,6 @@
+projectKey=doctorapp
+serverUrl=http://localhost:9091
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9091/dashboard?id=doctorapp
+ceTaskId=AYbuvMTRWHWP-gvVFo14
+ceTaskUrl=http://localhost:9091/api/ce/task?id=AYbuvMTRWHWP-gvVFo14
